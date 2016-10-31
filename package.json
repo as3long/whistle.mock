@@ -1,0 +1,24 @@
+{
+  "name": "whistle.mock",
+  "version": "0.0.2",
+  "description": "用于mock数据的whistle插件",
+  "main": "index.js",
+  "keywords": [
+    "mock"
+  ],
+  "homepage": "",
+  "repository": {
+    "type": "git",
+		"url": "https://github.com/as3long/whistle.mock"
+  },
+  "author": "as3long <as3long@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mockjs": "^1.0.1-beta3"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {}
+}

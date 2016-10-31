@@ -1,0 +1,3 @@
+# test.com下cgi转到mock插件
+
+/test.com/cgi-bin/(.*)/ mock://E:\debug-json\mock/$1.json
